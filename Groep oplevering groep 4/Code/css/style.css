@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    padding: 0;
+    padding-bottom: 60px;
+    height: 100%;
+    font-family: 'Lato', sans-serif;
+    background-color: #dadada;
+
+}
+
+p {
+    font-weight: 300;
+}
+
+.logo {
+    color: #C3552F;
+    text-transform: uppercase;
+}
+
+a.logo:hover {
+    text-decoration: none;
+}
+
+#logo-seperator {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#logo-left {
+
+}
+
+#logo-right {
+
+}
+
+hr {
+    border-top: 1px solid #C3552F;
+}
+
+footer a {
+    color: #C3552F;
+
+}
+
+.themakleurborder{
+    border-color: #C3552F;
+}
+
+.gekleurdeknop{
+    background: #C3552F;
+    color: white;
+    border-color: #C3552F;
+    border-radius: 5px;
+    padding: 5px 10px 5px 10px;
+}
+
+.btn-link {
+    color: #C3552F;
+}
+
+.color-defined {
+    color: #C3552F;
+}
+
+.border-defined {
+    border-bottom: 5px solid #C3552F;
+}
+
+.list-inline {
+    display: flex;
+    justify-content: center;
+}
+
+.login-form {
+    max-width: 400px;
+    margin: 60px auto;
+}
+
+/*.footer {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    height: 60px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-top: 6.5%;
+    width: 100%;
+    text-align: center;
+    padding: 1rem;
+}*/
+
+.footer {
+    position: absolute;
+    /*bottom: 0;*/
+    width: 100%;
+    /*left: 0;*/
+    /*height: 60px;*/
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-top: 6.5%;
+    text-align: center;
+    padding: 1rem;
+}
+
+.offset-1{
+    margin-left: 4.5%;
+
+
+}
+
+.img{
+    align-content: center;
+    display: flex;
+}
+
+.mainText{
+    font-size: 180%;
+
+    text-align: center;
+}
+.dashnav{
+    background: white;
+}
+
+.background-light{
+    background-color: #d5d9dd;
+    padding: 0 90px;
+}
+
+.background-dark{
+    background-color: #adb5bd;
+    padding: 0 90px;
+}
+
+.data{
+    background: #adb5bd;
+    display: inline-block;
+    padding: 8px;
+    border-radius: 3px;
+    max-width: 300px;
+    margin-top: 25px;
+    margin-left: 18px
+}
+
+.timerRow{
+    background-color: #adb5bd;
+   padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.detailTimer{
+    font-weight: bold;
+}
+
+.btnIcon {
+    width: 16px;
+    height: 16px;
+}

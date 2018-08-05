@@ -1,0 +1,45 @@
+.buttonLayout {
+  background-color: #B50100;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px;
+  border: none;
+  cursor: pointer;
+	text-align: center;
+}
+
+.cancelBtn {
+	float: left;
+	padding: 14px 20px;
+	width: 300px;
+}
+
+.signupbtn {
+  background-color: #B50100;
+  padding: 14px 20px;
+  float: left;
+  width: 300px;
+}
+
+.abbobtn {
+	float: left;
+	padding: 14px 20px;
+	width: 100px;
+}
+
+.abbobtnline {
+	align-items: left;
+	display: flex;
+	justify-content: flex-start;
+}
+
+label {
+  text-decoration: none;
+  font-family: arial;
+  font-size: 15px;
+  line-height: 1;
+}
+
+.checkbox {
+    color: #B50100;
+}

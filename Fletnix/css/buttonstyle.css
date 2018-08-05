@@ -1,0 +1,21 @@
+accbtn {    
+    border-radius: 8px;
+    color: blue;
+    height: 200px;
+	width: 400px;
+    text-align: center;
+    font-size: 25px;
+	justify-content: space-around;
+}
+
+.button1 {
+	padding: 20px 20px;
+}
+
+.topbtnspace {
+  display: flex;
+  height: 275px;
+  justify-content: center;
+  align-items: center;
+}
+	

@@ -1,0 +1,68 @@
+body {
+  background-image: url("../img/background.jpg");
+}
+
+.flex-info {
+  display: flex;
+  justify-content: space-around;
+  flex-flow: row nowrap;
+  align-items: stretch;
+  align-content: center;
+}
+
+.textBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 350px;
+  height: 50%;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+
+.buttonLayout {
+	background-color: #B50100;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px;
+  margin-top: 50px;
+	border: none;
+	cursor: pointer;
+	text-align: center;
+}
+
+.detailbtn {
+	float: center;
+	padding: 14px 20px;
+  height: 50px;
+	width: 200px;
+}
+
+
+h5 {
+  font-family: chiller;
+  font-weight: bolder;
+  font-size: 54px;
+  line-height: 1;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-family: chiller;
+  font-weight: bolder;
+  font-size: 35px;
+  line-height: 1;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+h6 {
+  font-family: chiller;
+  font-size: 125px;
+  line-height: 1;
+  margin-top: 100px;
+  margin-bottom: 0px;
+}

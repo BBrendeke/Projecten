@@ -1,0 +1,38 @@
+Gebruiker account gegevens:
+	Mail:
+		Voornaam: Iproject
+		Achternaam: Icasites
+		Gebruikersnaam: iproject4gebruiker@gmail.com
+		Wachtwoord: 33nGebru1ker
+	
+	EenmaalAndermaal:
+		Gebruikersnaam: testAccountGebruiker
+		Wachtwoord: 33nGebru1ker!
+		Antwoord beveilingsvraag: Cake
+
+
+Verkoper account gegevens:
+	Mail:
+		Voornaam: Iproject
+		Achternaam: Icasites
+		Gebruikersnaam: iproject4verkoper@gmail.com
+		Wachtwoord: 33nVerk0per
+	
+	EenmaalAndermaal:
+		Gebruikersnaam: testAccountVerkoper
+		Wachtwoord: 33nVerk0per!
+		Antwoord beveilingsvraag: Macaroni
+
+
+Beheerder account gegevens:
+	Mail:
+		Voornaam: Iproject
+		Achternaam: Icasites
+		Gebruikersnaam: iproject4beheerder@gmail.com
+		Wachtwoord: 33nBeheerd3r
+	
+	EenmaalAndermaal:
+		Gebruikersnaam: testAccountBeheerder
+		Wachtwoord: 33nBeheerd3r!
+		Antwoord beveiligingsvraag: Spaghetti
+

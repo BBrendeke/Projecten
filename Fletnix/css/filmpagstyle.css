@@ -1,0 +1,61 @@
+.plaatje {
+	margin-top: 30px;
+	margin-bottom: 20px;
+	margin-right: 10px;
+	width: 290px;
+	height: 160px;
+}
+
+.ruimte {
+	display: flex;
+	justify-content: space-around;
+	flex-flow: row nowrap;
+	align-items: stretch;
+	align-content: center;
+	background-color: #242424;
+}
+
+.footerspaceDagFilm {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 350px;
+
+}
+
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 160px;
+  width: 290px;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: black;
+}
+
+.container:hover .overlay {
+  opacity: 0.75;
+}
+
+.text {
+  font-size: 38px;
+  font-family: chiller;
+  font-weight: bolder;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+h4 {
+	font-family: verdana;
+	font-size: 32px;
+}

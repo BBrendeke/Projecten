@@ -1,0 +1,38 @@
+.footerspaceDagFilm {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 300px;
+}
+
+.footerSpaceFilmDescription {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 100px;
+}
+
+h4 {
+	font-family: verdana;
+	font-size: 32px;
+}
+
+.buttonLayout {
+	background-color: #B50100;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px;
+	border: none;
+	cursor: pointer;
+	text-align: center;
+}
+
+.detailbtn {
+	float: left;
+	padding: 14px 20px;
+	width: 100px;
+}
+
+.detailbtnline {
+	align-items: left;
+	display: flex;
+	justify-content: flex-start;
+}
